@@ -2,9 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header" alt="banner"/>
 
-<img src="https://github.com/shakibuddin677-shakib.png" width="130" style="border-radius:50%;margin-top:-160px;border:4px solid #24243e;" alt="profile"/>
+<img src="https://wsrv.nl/?url=github.com/shakibuddin677-shakib.png&h=180&w=180&fit=cover&mask=circle" width="130" alt="profile"/>
 
-<h1>Shakibuddin</h1>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&duration=1&pause=100000&color=6C63FF&center=true&vCenter=true&width=500&height=70&lines=Shakibuddin" alt="Shakibuddin" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;Building+production-style+web+apps;Solving+DSA+on+LeetCode+%26+GfG;Open+to+SDE+%2F+Full-Stack+roles" alt="Typing SVG" />
 
@@ -125,7 +127,7 @@ Full-stack school ERP with role-based access (Admin/Teacher/Student), attendance
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TCS_CodeVita Season 13-Global_Rank_5921-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TCS_CodeVita-Global_Rank_5921-6C63FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NPTEL-Problem_Solving_in_C-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NPTEL-DBMS-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
