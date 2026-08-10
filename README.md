@@ -1,6 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Shakibuddin&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20·%20MERN%20Stack&descAlignY=55&descSize=18" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header" alt="banner"/>
+
+<img src="https://github.com/shakibuddin677-shakib.png" width="130" style="border-radius:50%;margin-top:-160px;border:4px solid #24243e;" alt="profile"/>
+
+<h1>Shakibuddin</h1>
+<h3>Full-Stack Developer · MERN Stack</h3>
+
+<img src="https://img.shields.io/github/followers/shakibuddin677-shakib?style=for-the-badge&logo=github&color=181717&labelColor=0f0c29" />
+<img src="https://img.shields.io/github/stars/shakibuddin677-shakib?style=for-the-badge&logo=github&color=181717&labelColor=0f0c29" />
+<a href="https://github.com/shakibuddin677-shakib?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://in.linkedin.com/in/shakib-uddin-36865b240">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shakibu015@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/shakibuddin677-shakib">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/shakibuddin677-shakib">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
 </div>
 
@@ -43,34 +69,48 @@ shakib@dev:~$ cat contact.txt
 <tr>
 <td width="50%" valign="top">
 
-### 🏡 [Listora](https://listora-2udt.onrender.com)
+### 🏡 [Listora](https://github.com/shakibuddin677-shakib/Listora)
 
-Airbnb-inspired property listing platform with full auth, image uploads, search/filter/sort, star reviews, and a wishlist.
+Airbnb-inspired property listing platform with full auth, image uploads, search/filter/sort, star reviews, a wishlist, and a complete reservation/booking flow.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square)
 
-**[🔗 Live Demo](https://listora-2udt.onrender.com)**
+**[🔗 Live Demo](https://listora-2udt.onrender.com)** · **[💻 Source](https://github.com/shakibuddin677-shakib/Listora)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🏫 [SchoolVidya](https://school-vidya-frontend.vercel.app)
+### 🏫 [SchoolVidya](https://github.com/shakibuddin677-shakib/SchoolVidya)
 
-Full-stack school ERP with role-based access (Admin/Teacher/Student), attendance, fees, exams, results & library management.
+Full-stack school ERP with role-based access (Admin/Teacher/Student), attendance, fees, exams, results, library, and aggregation-driven performance dashboards.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**[🔗 Live Demo](https://school-vidya-frontend.vercel.app)**
+**[🔗 Live Demo](https://school-vidya-frontend.vercel.app)** · **[💻 Source](https://github.com/shakibuddin677-shakib/SchoolVidya)**
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 🏅 Certifications & Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TCS_CodeVita-Global_Rank_5921-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NPTEL-Problem_Solving_in_C-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NPTEL-DBMS-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/Coding_Ninjas-Certified-F4A100?style=for-the-badge" />
+
+</div>
 
 <br/>
 
@@ -89,8 +129,7 @@ Full-stack school ERP with role-based access (Admin/Teacher/Student), attendance
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shakib-uddin-36865b240)
 [![Gmail](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakibu015@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/shakibuddin677-shakib)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shakibuddin677-shakib)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakibuddin677-shakib)
 
 </div>
 
