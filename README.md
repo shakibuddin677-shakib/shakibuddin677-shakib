@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header" alt="banner"/>
 
-<img src="https://wsrv.nl/?url=github.com/shakibuddin677-shakib&h=180&w=180&fit=cover&mask=circle" width="130" alt="profile"/>
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=48&duration=1&pause=100000&color=6C63FF&center=true&vCenter=true&width=500&height=70&lines=Shakibuddin" alt="Shakibuddin" />
