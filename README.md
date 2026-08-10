@@ -1,6 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2b6ecf&height=180&section=header&text=Hi%20there,%20I'm%20Shakibuddin%20👋&fontSize=32&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack&descAlignY=55&descSize=18" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header" alt="banner"/>
+
+<img src="https://github.com/shakibuddin677-shakib.png" width="130" style="border-radius:50%;margin-top:-160px;border:4px solid #24243e;" alt="profile"/>
+
+<h1>Shakibuddin</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;Building+production-style+web+apps;Solving+DSA+on+LeetCode+%26+GfG;Open+to+SDE+%2F+Full-Stack+roles" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/github/followers/shakibuddin677-shakib?style=for-the-badge&logo=github&color=181717&labelColor=0f0c29" />
+<img src="https://img.shields.io/github/stars/shakibuddin677-shakib?style=for-the-badge&logo=github&color=181717&labelColor=0f0c29" />
+<a href="https://github.com/shakibuddin677-shakib?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <a href="https://in.linkedin.com/in/shakib-uddin-36865b240">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,6 +32,27 @@
 </a>
 
 </div>
+
+<br/>
+
+```bash
+shakib@dev:~$ whoami
+> Shakibuddin — Full-Stack Developer (MERN)
+> B.Tech CSE (Lateral Entry), IES College of Technology, Bhopal
+
+shakib@dev:~$ cat currently.txt
+> Preparing for placements
+> Sharpening DSA on LeetCode & GeeksforGeeks
+> Building production-style full-stack apps — not tutorial clones
+
+shakib@dev:~$ ls projects/
+> Listora/        an Airbnb-style listing platform
+> SchoolVidya/     a role-based school management ERP
+
+shakib@dev:~$ cat contact.txt
+> Email    : shakibu015@gmail.com
+> LinkedIn : linkedin.com/in/shakib-uddin-36865b240
+```
 
 <br/>
 
@@ -63,6 +100,16 @@ Full-stack school ERP with role-based access (Admin/Teacher/Student), attendance
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 📅 Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/6C63FF/shakibuddin677-shakib" alt="Shakibuddin's GitHub contribution graph" width="100%"/>
+
+</div>
 
 <br/>
 
