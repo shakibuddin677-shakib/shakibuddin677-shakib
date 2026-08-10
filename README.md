@@ -125,7 +125,7 @@ Full-stack school ERP with role-based access (Admin/Teacher/Student), attendance
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TCS_CodeVita-Global_Rank_5921-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TCS_CodeVita Season 13-Global_Rank_5921-6C63FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NPTEL-Problem_Solving_in_C-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/NPTEL-DBMS-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HackerRank-Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
