@@ -35,24 +35,32 @@
 
 <br/>
 
-```bash
-shakib@dev:~$ whoami
-> Shakibuddin — Full-Stack Developer (MERN)
-> B.Tech CSE (Lateral Entry), IES College of Technology, Bhopal
+## 👋 About Me
 
-shakib@dev:~$ cat currently.txt
-> Preparing for placements
-> Sharpening DSA on LeetCode & GeeksforGeeks
-> Building production-style full-stack apps — not tutorial clones
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-shakib@dev:~$ ls projects/
-> Listora/        an Airbnb-style listing platform
-> SchoolVidya/     a role-based school management ERP
+- 💼 **Full-Stack Developer** (MERN Stack)
+- 🎓 B.Tech CSE (Lateral Entry) — IES College of Technology, Bhopal
+- 🎯 Currently preparing for placements
+- 🧠 Sharpening DSA on LeetCode & GeeksforGeeks
+- 🏗️ Building production-style apps — not tutorial clones
 
-shakib@dev:~$ cat contact.txt
-> Email    : shakibu015@gmail.com
-> LinkedIn : linkedin.com/in/shakib-uddin-36865b240
-```
+</td>
+<td width="45%" valign="top">
+
+**📌 Projects**
+- 🏡 Listora — Airbnb-style listing platform
+- 🏫 SchoolVidya — School management ERP
+
+**📬 Contact**
+- ✉️ shakibu015@gmail.com
+- 🔗 linkedin.com/in/shakib-uddin-36865b240
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -107,7 +115,7 @@ Full-stack school ERP with role-based access (Admin/Teacher/Student), attendance
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/6C63FF/shakibuddin677-shakib" alt="Shakibuddin's GitHub contribution graph" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shakibuddin677-shakib&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Shakibuddin's GitHub contribution graph"/>
 
 </div>
 
