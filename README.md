@@ -1,16 +1,83 @@
-👨‍💻 About Me<br><br>
-# Hi 👋, I'm Shakibuddin<br><br>## I'm a Computer Science Engineering student and a MERN Stack Developer passionate about building scalable and user-friendly web applications.<br><br>- 🎓 Pursuing B.Tech in Computer Science Engineering<br>- 💻 MERN Stack Developer<br>- 🌱 Currently learning Redux Toolkit and exploring modern web technologies<br>- 🧠 Solved 150+ DSA problems on LeetCode, GeeksforGeeks, and HackerRank<br>- 🚀 Interested in Full Stack Web Development and Software Engineering<br>- 🔭 Currently working on a School Management System<br>- 💡 I enjoy solving problems and building real-world web applications<br>- 🎯 Currently preparing for Software Development and Full Stack Developer opportunities<br>- 📫 Open to internships and entry-level opportunities
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2b6ecf&height=180&section=header&text=Hi%20there,%20I'm%20Shakibuddin%20👋&fontSize=32&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack&descAlignY=55&descSize=18" alt="banner"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shakib_uddin6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shakib-uddin-36865b240) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shakibu015@gmail.com) 
+<a href="https://in.linkedin.com/in/shakib-uddin-36865b240">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shakibu015@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/shakibuddin677-shakib">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/shakibuddin677-shakib">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=shakibuddin677-shakib&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=shakibuddin677-shakib&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=shakibuddin677-shakib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=shakibuddin677-shakib&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Computer Science Engineering (Lateral Entry) @ **IES College of Technology, Bhopal**
+- 💻 Focused on **Full-Stack Web Development** — MERN stack
+- 🏗️ Currently building **school & rental management platforms** with role-based access, real APIs, and clean UI
+- 🧠 Actively solving DSA problems on **LeetCode** & **GeeksforGeeks**
+- 📫 Reach me at **shakibu015@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,nodejs,express,mongodb,tailwind,vite,git,github,vscode,postman,c,cpp)
+
+</div>
+
+<br/>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/shakibuddin677-shakib/Listora">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shakibuddin677-shakib&repo=Listora&theme=default" />
+</a>
+<a href="https://github.com/shakibuddin677-shakib/SchoolVidya">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shakibuddin677-shakib&repo=SchoolVidya&theme=default" />
+</a>
+
+</div>
+
+**🏡 [Listora](https://listora-2udt.onrender.com)** — An Airbnb-inspired property listing platform with auth, image uploads, reviews, search/filter, and a wishlist. Built with Node.js, Express, MongoDB & EJS.
+
+**🏫 [SchoolVidya](https://school-vidya-frontend.vercel.app)** — A full-stack school management ERP with role-based access (Admin/Teacher/Student), attendance, fees, exams, results, and library management. Built with React, Redux Toolkit, Node.js & MongoDB.
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shakibuddin677-shakib&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shakibuddin677-shakib&theme=default&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibuddin677-shakib&layout=compact&theme=default&hide_border=true" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shakib-uddin-36865b240)
+[![Gmail](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shakibu015@gmail.com)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6ecf,100:1a1a2e&height=100&section=footer" alt="footer"/>
