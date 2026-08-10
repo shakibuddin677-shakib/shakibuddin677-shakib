@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header" alt="banner"/>
 
-<img src="https://wsrv.nl/?url=github.com/shakibuddin677-shakib.png&h=180&w=180&fit=cover&mask=circle" width="130" alt="profile"/>
+<img src="https://wsrv.nl/?url=github.com/shakibuddin677-shakib&h=180&w=180&fit=cover&mask=circle" width="130" alt="profile"/>
 
 <br/>
 
