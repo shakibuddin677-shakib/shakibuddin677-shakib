@@ -127,14 +127,6 @@ Dual-role savings & loan ERP for community committees (samitis/chit funds) — m
 
 <br/>
 
-## 📅 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shakibuddin677-shakib&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Shakibuddin's GitHub contribution graph"/>
-
-</div>
-
 <br/>
 
 ## 📊 GitHub Stats
@@ -146,19 +138,9 @@ Dual-role savings & loan ERP for community committees (samitis/chit funds) — m
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibuddin677-shakib&layout=compact&theme=dracula&hide_border=true" alt="Shakibuddin's most used languages"/>
-
 </div>
 
 <br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shakibuddin677-shakib&theme=dracula&no-frame=true&row=1&column=6" alt="Shakibuddin's GitHub trophies"/>
-
-</div>
 
 <br/>
 
