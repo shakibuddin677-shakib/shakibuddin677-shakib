@@ -142,7 +142,7 @@ Dual-role savings & loan ERP for community committees (samitis/chit funds) — m
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=shakibuddin677-shakib&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Shakibuddin's GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shakibuddin677-shakib&theme=dracula&hide_border=true" alt="Shakibuddin's GitHub streak"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=shakibuddin677-shakib&theme=dracula&hide_border=true" alt="Shakibuddin's GitHub streak"/>
 
 <br/>
 
