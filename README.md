@@ -42,7 +42,7 @@
 <td width="55%" valign="top">
 
 - 💼 **Full-Stack Developer** (MERN Stack)
-- 🎓 B.Tech CSE (Lateral Entry) — IES College of Technology, Bhopal
+- 🎓 B.Tech CSE (Lateral Entry) — IES College of Technology, Bhopal (Final Year)
 - 🎯 Currently preparing for placements
 - 🧠 Sharpening DSA on LeetCode & GeeksforGeeks
 - 🏗️ Building production-style apps — not tutorial clones
@@ -53,6 +53,7 @@
 **📌 Projects**
 - 🏡 Listora — Airbnb-style listing platform
 - 🏫 SchoolVidya — School management ERP
+- 🧾 Committee Management — Savings & loan ERP for community committees
 
 **📬 Contact**
 - ✉️ shakibu015@gmail.com
@@ -78,7 +79,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🏡 [Listora](https://github.com/shakibuddin677-shakib/Listora)
 
@@ -92,7 +93,7 @@ Airbnb-inspired property listing platform with full auth, image uploads, search/
 **[🔗 Live Demo](https://listora-2udt.onrender.com)** · **[💻 Source](https://github.com/shakibuddin677-shakib/Listora)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🏫 [SchoolVidya](https://github.com/shakibuddin677-shakib/SchoolVidya)
 
@@ -106,6 +107,21 @@ Full-stack school ERP with role-based access (Admin/Teacher/Student), attendance
 **[🔗 Live Demo](https://school-vidya-frontend.vercel.app)** · **[💻 Source](https://github.com/shakibuddin677-shakib/SchoolVidya)**
 
 </td>
+<td width="33%" valign="top">
+
+### 🧾 [Committee Management](https://committee-mgmt.vercel.app)
+
+Dual-role savings & loan ERP for community committees (samitis/chit funds) — monthly contributions, interest-bearing loans, multi-committee support, and bilingual (Hindi/English) PDF & CSV reports with WhatsApp sharing.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+**[🔗 Live Demo](https://committee-mgmt.vercel.app)** · **[💻 Source](https://github.com/shakibuddin677-shakib/committee-mgmt)**
+
+</td>
 </tr>
 </table>
 
@@ -116,6 +132,31 @@ Full-stack school ERP with role-based access (Admin/Teacher/Student), attendance
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shakibuddin677-shakib&theme=dracula&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Shakibuddin's GitHub contribution graph"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shakibuddin677-shakib&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Shakibuddin's GitHub stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shakibuddin677-shakib&theme=dracula&hide_border=true" alt="Shakibuddin's GitHub streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibuddin677-shakib&layout=compact&theme=dracula&hide_border=true" alt="Shakibuddin's most used languages"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shakibuddin677-shakib&theme=dracula&no-frame=true&row=1&column=6" alt="Shakibuddin's GitHub trophies"/>
 
 </div>
 
